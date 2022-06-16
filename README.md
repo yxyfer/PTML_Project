@@ -4,6 +4,7 @@
  - Théo Perinet
  - Moustapha Diop
  - Mathieu Rivier
+ - Martin Poulard
 
 ## HOW TO USE:
  - ...
